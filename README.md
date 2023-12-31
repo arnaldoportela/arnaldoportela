@@ -1,8 +1,8 @@
 ### Hi, I'm Arnaldo Portela 👋
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnaldoportela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnaldoportela&layout=compact&theme=dracula&langs_count=16"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnaldoportela&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnaldoportela&layout=compact&theme=cobalt&langs_count=16"/>
 </div>
 
 ##
